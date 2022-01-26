@@ -15,7 +15,6 @@ color1.addEventListener('input', setBackground);
 color2.addEventListener('input', setBackground); 
 
 
-git
 
 function setRandom() {
   const random1 = (Math.floor(Math.random()*255))
