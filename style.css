@@ -3,7 +3,7 @@ body {
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: .3rem;
     top: 15%;
 	background: linear-gradient(to right, rgb(156, 22, 111) , rgb(26, 22, 218)); /* Standard syntax */
 }
@@ -13,7 +13,7 @@ h1 {
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .3em;
+    letter-spacing: .3rem;
     width: 100%;
 }
 
@@ -22,6 +22,11 @@ h3 {
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
-    letter-spacing: 0.01em;
+    letter-spacing: .1rem;
 
+}
+
+
+.btn {
+    text-transform: capitalize;
 }
